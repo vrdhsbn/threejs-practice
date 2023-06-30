@@ -44,15 +44,15 @@ const emptyBox = css`
   border: solid 1px #ccc;
 `
 const texture1 = css`
-  background: url('/models/texture1.jpg') no-repeat;
+  background: url('./models/texture1.jpg') no-repeat;
   background-size: cover;
 `
 const texture2 = css`
-  background: url('/models/texture2.jpg') no-repeat;
+  background: url('./models/texture2.jpg') no-repeat;
   background-size: cover;
 `
 const texture3 = css`
-  background: url('/models/texture3.jpg') no-repeat;
+  background: url('./models/texture3.jpg') no-repeat;
   background-size: cover;
 `
 export default SelectBar
