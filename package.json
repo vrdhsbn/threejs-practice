@@ -1,6 +1,7 @@
 {
   "name": "threejs",
   "version": "0.1.0",
+  "homepage": "https://vrdhsbn.github.io/threejs-practice",
   "private": true,
   "scripts": {
     "dev": "next dev",
