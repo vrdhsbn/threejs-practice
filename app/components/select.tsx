@@ -90,19 +90,19 @@ const box = css`
   cursor: pointer;
 `
 const geometry1 = css`
-  background: url('/object1.png') no-repeat;
+  background: url('./object1.png') no-repeat;
   background-size: 100%;
 `
 const geometry2 = css`
-  background: url('/object2.png') no-repeat;
+  background: url('./object2.png') no-repeat;
   background-size: 100%;
 `
 const geometry3 = css`
-  background: url('/object3.png') no-repeat;
+  background: url('./object3.png') no-repeat;
   background-size: 100%;
 `
 const geometry4 = css`
-  background: url('/object4.png') no-repeat;
+  background: url('./object4.png') no-repeat;
   background-size: 100%;
 `
 const white = css`
@@ -119,14 +119,14 @@ const red = css`
   background: #eb0960;
 `
 const donuts = css`
-  background: url(/donuts.jpg) no-repeat;
+  background: url('./donuts.jpg') no-repeat;
 `
 const earth = css`
-  background: url(/earthmap1k.jpg) no-repeat;
+  background: url('./earthmap1k.jpg') no-repeat;
   background-size: cover;
 `
 const moon = css`
-  background: url(/moonmap1k.jpg) no-repeat;
+  background: url('./moonmap1k.jpg') no-repeat;
   background-size: cover;
 `
 const messageArea = css`
