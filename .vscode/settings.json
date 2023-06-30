@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    // import されていないモジュールを自動補完
+    "source.addMissingImports": true,
+    // ファイル保存時に ESLint/StyleLint による自動フォーマットを実行する
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  }
+}
