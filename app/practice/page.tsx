@@ -57,13 +57,13 @@ const Home: NextPage = () => {
       case 'empty':
         break
       case 'texture1':
-        filename = '/models/texture1.jpg'
+        filename = '../models/texture1.jpg'
         break
       case 'texture2':
-        filename = '/models/texture2.jpg'
+        filename = '../models/texture2.jpg'
         break
       case 'texture3':
-        filename = '/models/texture3.jpg'
+        filename = '../models/texture3.jpg'
         break
     }
 
